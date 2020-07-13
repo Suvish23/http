@@ -5,11 +5,11 @@ const todos = [
   { id: 1, text: 'Todo One' },
 ];
 const server = http.createServer((req, res) => {
-  res.statusCode = 400;
+  res.statusCode = 500;
   //instead of this we use writeHead at once....
   // res.setHeader('Content-Type', 'application/json');
   // res.setHeader('X-Powered-By', 'Node.js');
-  res.writeHead(400, {
+  res.writeHead(500, {
     'Content-Type': 'application/json',
     'X-Powered-By': 'Node.js',
   });
