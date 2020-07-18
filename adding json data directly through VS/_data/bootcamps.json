@@ -1,0 +1,32 @@
+[
+  {
+    "careers": ["suvish"],
+    "photo": "no-photo.jpg",
+    "housing": false,
+    "jobAssistance": false,
+    "jobGuarantee": false,
+    "acceptGi": false,
+    "_id": "5f117e677686a1209c233b1f",
+    "name": "jon doe",
+    "phone": "45654433344",
+    "address": "2nd cross nehru nagar,Mandya ",
+    "description": "jon doe company and stuff",
+    "website": "https://jondoe.com",
+    "createdAt": "2020-07-17T10:33:11.306Z",
+    "slug": "jon-doe"
+  },
+  {
+    "careers": ["jain"],
+    "photo": "no-photo.jpg",
+    "housing": false,
+    "jobAssistance": false,
+    "jobGuarantee": false,
+    "acceptGi": false,
+    "_id": "5f1297f997fc3c43d42e90e5",
+    "name": "jon de",
+    "phone": "4565433344",
+    "address": "2d cross nehru nagar,Mandya ",
+    "description": "jon do company and stuff",
+    "website": "https://jonoe.com"
+  }
+]
